@@ -27,13 +27,13 @@ Run the application using:
 node index.js <command> [arguments]
 ```
 ## Commands
-- add " "
-- update <ID> "[arguments]" "[status]"
-- delete <ID> 
+- add "[argument] "
+- update [id] "[arguments]" "[status]"
+- delete [id]
 - list
-- list-status <status>
-- mark-in-progress <ID>
-- mark-done <ID>
+- list-status [status]
+- mark-in-progress [ID]
+- mark-done [ID]
 
 ## Examples
 ```bash
