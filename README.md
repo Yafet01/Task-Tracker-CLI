@@ -1,6 +1,6 @@
 # Task-Tracker-CLI
 
-Sample solution for the [Task Tracker challenge](https://roadmap.sh/projects/task-tracker) from roadmap.sh.
+Sample solution for the [Task Tracker challenge](https://roadmap.sh/projects/task-tracker) from [roadmap.sh](https://roadmap.sh/)
 
 ## Features
 - Add a new task
