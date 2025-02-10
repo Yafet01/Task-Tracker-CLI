@@ -47,4 +47,5 @@ node index.js list-status "done"
 
 node index.js delete 1
 ```
-
+## side note
+I made it in a way it will automatically add the tasks.json if such file does not exist.
